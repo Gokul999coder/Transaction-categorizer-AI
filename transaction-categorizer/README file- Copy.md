@@ -3,7 +3,7 @@
 # &nbsp;	README FIRST
 
 # -----------------------------
-
+used python version : 3.11.4
 
 **COMMANDS TO:**
 
